@@ -1,0 +1,23 @@
+.button {
+    --accent-color: DodgerBlue;
+    background-color: var(--accent-color);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.secondary {
+    background-color: transparent;
+    border: 1px solid var(--accent-color);
+    color: var(--accent-color);
+}
+
+.tertiary {
+    background-color: transparent;
+    border: transparent;
+    color: var(--accent-color);
+}

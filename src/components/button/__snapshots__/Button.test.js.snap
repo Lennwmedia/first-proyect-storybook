@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[ components/button] should render Primary 1`] = `
+<DocumentFragment>
+  <button
+    class="button"
+  >
+    Click me!
+  </button>
+</DocumentFragment>
+`;
+
+exports[`[ components/button] should render Secondary 1`] = `
+<DocumentFragment>
+  <button
+    class="button secondary"
+  >
+    Click me!
+  </button>
+</DocumentFragment>
+`;
+
+exports[`[ components/button] should render Tertiary 1`] = `
+<DocumentFragment>
+  <button
+    class="button tertiary"
+  >
+    Click me!
+  </button>
+</DocumentFragment>
+`;
